@@ -1,6 +1,6 @@
 {
   "name": "connect-laravel",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Connect middleware for loading Laravel sessions",
   "main": "laravel.js",
   "scripts": {
